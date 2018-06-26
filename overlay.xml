@@ -2,7 +2,7 @@
 <!DOCTYPE repositories SYSTEM "repositories.dtd">
 <repositories xmlns="" version="1.0">
 	<repo quality="experimental" status="unofficial">
-		<name>maya</name>
+		<name>maya2018</name>
 		<description>maya 2018 in gentoo</description>
 		<homepage>https://github.com/tux1989/maya2018</homepage>
 		<owner type="project">
