@@ -4,12 +4,12 @@
 	<repo quality="experimental" status="unofficial">
 		<name>maya2018</name>
 		<description>maya 2018 in gentoo</description>
-		<homepage>https://github.com/tux1989/maya2018-overlay</homepage>
+		<homepage>https://github.com/tux1989/maya2018</homepage>
 		<owner type="project">
 			<email>kr_karakolev@abv.bg</email>
 			<name>Tux</name>
 		</owner>
-		<source type="git">git://github.com/tux1989/maya2018.git</source>
+		<source type="git">https://github.com/tux1989/maya2018.git</source>
 		<feed>https://github.com/tux1989/maya2018/commits/master.atom</feed>
 	</repo>
 </repositories>
