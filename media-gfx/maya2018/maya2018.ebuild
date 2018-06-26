@@ -85,8 +85,8 @@ src_install() {
 
 	# Desktop Icon
 	mkdir -p ${D}usr/share/applications/ ${D}usr/share/icons/hicolor/48x48/apps/
-	ln -s /usr/autodesk/maya2014-x64/desktop/Autodesk-Maya.desktop ${D}usr/share/applications/Autodesk-Maya.desktop
-	ln -s /usr/autodesk/maya2014-x64/desktop/Maya.png              ${D}usr/share/icons/hicolor/48x48/apps/Maya.png
+	ln -s /usr/autodesk/maya2018-x64/desktop/Autodesk-Maya.desktop ${D}usr/share/applications/Autodesk-Maya.desktop
+	ln -s /usr/autodesk/maya2018-x64/desktop/Maya.png              ${D}usr/share/icons/hicolor/48x48/apps/Maya.png
 
 	# Mental Ray needs it's own temporary directory
 	mkdir ${D}usr/tmp
