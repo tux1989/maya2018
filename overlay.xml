@@ -3,11 +3,11 @@
 <repositories xmlns="" version="1.0">
 	<repo quality="experimental" status="unofficial">
 		<name>maya</name>
-		<description>maya 2012 in gentoo</description>
+		<description>maya 2018 in gentoo</description>
 		<homepage>https://github.com/etu/maya-overlay</homepage>
 		<owner type="project">
-			<email>etu@failar.nu</email>
-			<name>Etu</name>
+			<email>kr_karakolev@abv.bg</email>
+			<name>Tux</name>
 		</owner>
 		<source type="git">git://github.com/tux1989/maya2018.git</source>
 		<feed>https://github.com/tux1989/maya2018/commits/master.atom</feed>
