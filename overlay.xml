@@ -4,7 +4,7 @@
 	<repo quality="experimental" status="unofficial">
 		<name>maya</name>
 		<description>maya 2018 in gentoo</description>
-		<homepage>https://github.com/etu/maya-overlay</homepage>
+		<homepage>https://github.com/tux1989/maya2018</homepage>
 		<owner type="project">
 			<email>kr_karakolev@abv.bg</email>
 			<name>Tux</name>
